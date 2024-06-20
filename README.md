@@ -1,3 +1,4 @@
+![logo](https://github.com/M-Umar4002/M-Umar4002/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
 <h3 align="center">A Passionate and Aspiring AI Enthusiast from Pakistan</h3>
 
