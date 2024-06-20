@@ -22,8 +22,10 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-umar4002&show_icons=true&locale=en&layout=compact" alt="m-umar4002" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=m-umar4002&show_icons=true&locale=en" alt="m-umar4002" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-umar4002&" alt="m-umar4002" /></p>
+<div align="center">
+  <img width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=m-umar4002&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img width=400 src="https://github-readme-stats.vercel.app/api?username=m-umar4002&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/><br/>
+  <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=m-umar4002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs"" />
+</div>
